@@ -1,0 +1,128 @@
+<ImportExportXml version="7.0.0002.0074" SolutionPackageVersion="7.0" languagecode="1033" generatedBy="OnPremise" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SolutionManifest>
+    <UniqueName>CRMRESTBuilder</UniqueName>
+    <LocalizedNames>
+      <LocalizedName description="CRM REST Builder" languagecode="1033" />
+    </LocalizedNames>
+    <Descriptions>
+      <Description description="https://github.com/jlattimer/CRMRESTBuilder&#xA;&#xA;v2.6.0.0 for CRM 2015/2016 &amp; D365 CE (7.0+)&#xA;&#xA;Please report issues on the GitHub site&#xA;&#xA;No warranty expressed or implied - use at your own risk!" languagecode="1033" />
+    </Descriptions>
+    <Version>2.6.0.0</Version>
+    <Managed>1</Managed>
+    <ConfigurationPage>lat_/CRMRESTBuilder/Xrm.RESTBuilder.htm</ConfigurationPage>
+    <Publisher>
+      <UniqueName>jasonlattimer</UniqueName>
+      <LocalizedNames>
+        <LocalizedName description="Jason Lattimer" languagecode="1033" />
+      </LocalizedNames>
+      <Descriptions />
+      <EMailAddress xsi:nil="true"></EMailAddress>
+      <SupportingWebsiteUrl>http://jlattimer.blogspot.com/</SupportingWebsiteUrl>
+      <CustomizationPrefix>lat</CustomizationPrefix>
+      <CustomizationOptionValuePrefix>80799</CustomizationOptionValuePrefix>
+      <Addresses>
+        <Address>
+          <AddressNumber>1</AddressNumber>
+          <AddressTypeCode>1</AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country>USA</Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode>1</ShippingMethodCode>
+          <StateOrProvince>WI</StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+        <Address>
+          <AddressNumber>2</AddressNumber>
+          <AddressTypeCode>1</AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country xsi:nil="true"></Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode>1</ShippingMethodCode>
+          <StateOrProvince xsi:nil="true"></StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+      </Addresses>
+    </Publisher>
+    <RootComponents>
+      <RootComponent type="50" schemaName=":RibbonDiffXml" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/css/codemirror.css" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/css/jsontree.css" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/css/smoothness/images/animatedoverlay.gif" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/css/smoothness/images/uibgflat0aaaaaa40x100.png" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/css/smoothness/images/uibgflat75ffffff40x100.png" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/css/smoothness/images/uibgglass55fbf9ee1x400.png" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/css/smoothness/images/uibgglass65ffffff1x400.png" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/css/smoothness/images/uibgglass75dadada1x400.png" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/css/smoothness/images/uibgglass75e6e6e61x400.png" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/css/smoothness/images/uibgglass95fef1ec1x400.png" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/css/smoothness/images/uibghighlightsoft75cccccc1x100.png" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/css/smoothness/images/uiicons222222256x240.png" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/css/smoothness/images/uiicons2e83ff256x240.png" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/css/smoothness/images/uiicons454545256x240.png" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/css/smoothness/images/uiicons888888256x240.png" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/css/smoothness/images/uiiconscd0a0a256x240.png" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/css/smoothness/jqueryui1.10.3.custom.min.css" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/css/Xrm.RESTBuilder.css" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/images/logo.png" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/images/logo16.png" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/images/logo32.png" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/scripts/beautify.min.js" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/scripts/clipboard.min.js" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/scripts/codemirror.js" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/scripts/esprima.js" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/scripts/javascript.js" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/scripts/jquery.blockUI.js" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/scripts/jquery1.9.1.min.js" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/scripts/jqueryui1.10.3.min.js" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/scripts/json2.js" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/scripts/jsontree.js" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/scripts/SDK.JQuery.js" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/scripts/SDK.REST.js" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/scripts/Sdk.RetrieveMetadataChanges.js" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/scripts/Sdk.Soap.min.js" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/scripts/vkbeautify.min.js" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/scripts/xml.js" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/scripts/Xrm.RESTBuilder.js" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/scripts/XrmServiceToolkit.js" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/scripts/XrmSvcToolkit.js" />
+      <RootComponent type="61" schemaName="lat_/CRMRESTBuilder/Xrm.RESTBuilder.htm" />
+    </RootComponents>
+    <MissingDependencies />
+  </SolutionManifest>
+</ImportExportXml>
